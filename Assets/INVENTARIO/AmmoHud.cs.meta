@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ac5295b6a808e0448243b922ae75d52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - icon: {instanceID: 0}
+  - modeloArma: {instanceID: 0}
+  - disparoSonido: {instanceID: 0}
+  - recargaSonido: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

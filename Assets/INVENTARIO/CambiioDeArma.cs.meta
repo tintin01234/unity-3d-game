@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 42294dec21de2e64688182e3ed0971b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - armaActual: {instanceID: 0}
+  - fpsCam: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - text: {instanceID: 0}
+  - puntoSalida: {instanceID: 0}
+  - posicionArmaJugador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

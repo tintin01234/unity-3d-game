@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/INVENTARIO/WeaponInventoryUI.cs.meta
+guid: 23e1bfaa62664c444be25c12054346a8
+========
+guid: acaa491e828fcf648a59ec69250e2886
+>>>>>>>> 3441b34c0c07295aa53da620c2a329b62f5b365a:Assets/INVENTARIO/Benelli.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

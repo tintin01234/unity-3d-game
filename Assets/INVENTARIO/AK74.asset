@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a07eb64ed267f2e4981f6a6b59c876de, type: 3}
+  m_Name: AK74
+  m_EditorClassIdentifier: 
+  itemName: ak74
+  icon: {fileID: 0}
+  modeloArma: {fileID: 0}
+  "da\xF1o": 15
+  fireRate: 2
+  rango: 100
+  mantenerApretado: 0
+  "tama\xF1oCargador": 30
+  tiempoRecarga: 0.5
+  balasRestantes: 0
+  disparoSonido: {fileID: 8300000, guid: 6e1e292c51c47af4bb1a57db44a2868c, type: 3}
+  recargaSonido: {fileID: 8300000, guid: e8470165afb2f9445922646316cf21bd, type: 3}
